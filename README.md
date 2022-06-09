@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me name at gmail.com
+- 📫 How to reach me name at gmail dot com
 
 <!---
 ZiniuYu/ZiniuYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
